@@ -3,7 +3,23 @@ import com.sun.corba.se.impl.orb.ParserTable;
 public class DistanceConverter {
 
 
-    public void test(){
+    public void adfaas(){
+        System.out.println("adfsf");
+    }
+
+    public void adfafs(){
+        System.out.println("adfsf");
+    }
+
+    public void adfasc(){
+        System.out.println("adfsf");
+    }
+
+    public void adfdas(){
+        System.out.println("adfsf");
+    }
+
+    public void adfeas(){
         System.out.println("adfsf");
     }
 
