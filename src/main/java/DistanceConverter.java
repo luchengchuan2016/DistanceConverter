@@ -3,6 +3,9 @@ import com.sun.corba.se.impl.orb.ParserTable;
 public class DistanceConverter {
 
 
+    public void test(){
+        System.out.println("adfsf");
+    }
 
     public double fromMilesToKm(double miles){
         return miles * 1.609344;
