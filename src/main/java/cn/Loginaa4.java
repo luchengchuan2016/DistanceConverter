@@ -13,14 +13,15 @@ package cn;
  * 修改历史： <br/>
  * 1.[2016年1月8日下午8:08:10]创建文件 by lcc
  */
-public class Loginaa {
+public class Loginaa4 {
 
     public void maiaan(String[] args) {
         // TODO Auto-generated method stub
         System.out.println("adf");
     }
 
-    public void adfaa1s(){
+
+    public void adfa7as(){
         int a = 1;
         a=2;
         a=2;
@@ -35,7 +36,7 @@ public class Loginaa {
         System.out.println("adfsf");
     }
 
-    public void adfa2as(){
+    public void ad78faas(){
         int a = 1;
         a=2;
         a=2;

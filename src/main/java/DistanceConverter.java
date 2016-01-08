@@ -4,6 +4,17 @@ public class DistanceConverter {
 
 
     public void adfaas(){
+        int a = 1;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
+        a=2;
         System.out.println("adfsf");
     }
 
