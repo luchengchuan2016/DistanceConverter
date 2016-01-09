@@ -35,4 +35,18 @@
   </dependencies>
 
 
+  <build>
+      <plugins> 
+  <plugin>
+       <groupId>org.codehaus.sonar</groupId>
+       <artifactId>sonar-maven-plugin</artifactId>
+        <version>4.4</version>
+        <configuration>
+          <includes>
+           <include>**/*Test*.java</include>
+          </includes>
+        </configuration>
+      </plugin>
+      </plugins>
+      </build>
 </project>
